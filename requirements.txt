@@ -1,0 +1,17 @@
+transformers
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+prophet
+nltk
+spacy
+tqdm
+snscrape
+langdetect
+google-api-python-client
+pymongo
